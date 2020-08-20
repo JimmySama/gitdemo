@@ -5,4 +5,6 @@
 . update from local
 . update from remote before rebase again
 . again
+this is hack
 conflict 1
+
