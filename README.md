@@ -6,4 +6,3 @@
 . update from remote before rebase again
 . again
 this is hack
-conflict 2
