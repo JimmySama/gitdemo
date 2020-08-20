@@ -3,3 +3,4 @@
 . edit with example branch
 . update readme
 . update from local
+. update from remote before rebase
