@@ -8,3 +8,4 @@
 this is hack
 
 .change unstable tag
+Release Beta version 1.0
